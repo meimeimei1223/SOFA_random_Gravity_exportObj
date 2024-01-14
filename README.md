@@ -1,8 +1,9 @@
 
 # SOFA_random_Gravity_exportObj
 
-## SOFA_random_Gravity_exportObj is a project utilizing the SOFA framework to simulate liver model behavior under randomly varying gravity conditions and export the results as object files. This project can be used for research or educational purposes in the field of biomechanical simulations.
-Features
+SOFA_random_Gravity_exportObj is a project utilizing the SOFA framework to simulate liver model behavior under randomly varying gravity conditions and export the results as object files. This project can be used for research or educational purposes in the field of biomechanical simulations.
+
+## Features
 
  -   Simulates liver model behavior under a randomly changing gravity environment.
  -   Generates visual models of the liver and associated structures (portal, veins, tumors, etc.).
